@@ -1,0 +1,45 @@
+[submodule "repositories/ACNet"]
+	path = repositories/ACNet
+	url = https://github.com/anheidelonghu/ACNet.git
+[submodule "repositories/AsymFormer"]
+	path = repositories/AsymFormer
+	url = https://github.com/Fourier7754/AsymFormer.git
+[submodule "repositories/CEN"]
+	path = repositories/CEN
+	url = https://github.com/yikaiw/CEN.git
+[submodule "repositories/CMNeXt"]
+	path = repositories/CMNeXt
+	url = https://github.com/jamycheung/DELIVER
+[submodule "repositories/CMX"]
+	path = repositories/CMX
+	url = https://github.com/huaaaliu/rgbx_semantic_segmentation
+[submodule "repositories/EMSANet"]
+	path = repositories/EMSANet
+	url = https://github.com/TUI-NICR/EMSANet
+[submodule "repositories/ESANet"]
+	path = repositories/ESANet
+	url = https://github.com/TUI-NICR/ESANet
+[submodule "repositories/FRNet"]
+	path = repositories/FRNet
+	url = https://github.com/EnquanYang2022/FRNet
+[submodule "repositories/GeminiFusion"]
+	path = repositories/GeminiFusion
+	url = https://github.com/jiadingcn/geminifusion
+[submodule "repositories/MultiMAE"]
+	path = repositories/MultiMAE
+	url = https://github.com/EPFL-VILAB/MultiMAE
+[submodule "repositories/omnivore"]
+	path = repositories/omnivore
+	url = https://github.com/facebookresearch/omnivore
+[submodule "repositories/PGDENet"]
+	path = repositories/PGDENet
+	url = https://github.com/EnquanYang2022/PGDENet
+[submodule "repositories/SAGate"]
+	path = repositories/SAGate
+	url = https://github.com/charlesCXK/RGBD_Semantic_Segmentation_PyTorch
+[submodule "repositories/ShapeConv"]
+	path = repositories/ShapeConv
+	url = https://github.com/hanchaoleng/ShapeConv
+[submodule "repositories/TokenFusion"]
+	path = repositories/TokenFusion
+	url = https://github.com/yikaiw/TokenFusion
